@@ -1,3 +1,8 @@
 # This is just a placeholder for the licence file.
 # The actual licence will be chosen later.
 
+This is a new line in License.txt.
+
+This is another new line.
+
+Yet another new line here.
