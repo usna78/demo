@@ -6,6 +6,7 @@ correct line 4.
 New Stuff here.
 New Stuff here.
 New Stuff here.
+Inadvertent bad line here.
 New Stuff here.
 New Stuff here.
 New Stuff here.
