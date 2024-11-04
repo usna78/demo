@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Help Help Help
-=======
 this is just a test file.
 This is line 2
 This is line 3.
@@ -16,4 +13,3 @@ New Stuff here.
 I made a correct entry here.
 
 1236
->>>>>>> corrections
